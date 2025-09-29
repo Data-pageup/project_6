@@ -12,7 +12,7 @@ This project analyzes user behavior on a music streaming platform (similar to Sp
 | `model_building.ipynb` | Notebook for preprocessing, modeling (Logistic Regression, Random Forest, SMOTE) |
 | `data_analysis.ipynb` | Notebook for exploratory data analysis (EDA) and visual insights |
 | `README.md` | This documentation |
-| `requirements.txt` | (Optional) Python packages required to run the notebooks |
+| `requirements.txt` | Python packages required to run the notebooks |
 
 ---
 
